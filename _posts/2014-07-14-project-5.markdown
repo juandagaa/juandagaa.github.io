@@ -1,0 +1,15 @@
+---
+title: Cashbox
+subtitle: Product/Mechanical/Innovation
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: cash22.jpg
+thumbnail: cash11.png
+alt: image-alt
+project-date: April 2014
+client: BEA System
+category: Product Design/Mechanical Engineering/Innovation Culture
+description: Toll collection machine for US public transport systems. We achieved several possible patents for our client.
+
+---

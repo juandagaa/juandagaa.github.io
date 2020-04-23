@@ -1,0 +1,15 @@
+---
+title: Displaybus
+subtitle: Product/Mechanical/Electronics
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: display2.png
+thumbnail: display1.png
+alt: image-alt
+project-date: April 2014
+client: En punto
+category: Product Design/Mechanical Engineering/Electronics and embedded systems programming
+description: Signalization and information screen for public trasnport systems. This was design for strenous operation conditions and at a relatively small production level.
+
+---

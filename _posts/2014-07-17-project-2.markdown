@@ -1,0 +1,15 @@
+---
+title: Industrial Hammer
+subtitle: Product Desing And Innovation
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: marro2.jpg
+thumbnail: marro1.png
+alt: image-alt
+project-date: April 2014
+client: URREA Herramientas
+category: Product Desing And Innovation
+description: This antivibration hammer incorporates impact and vibration absorption technology developed by us. We achieved a patent for our client.
+
+---

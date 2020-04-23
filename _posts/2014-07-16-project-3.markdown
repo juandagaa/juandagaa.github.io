@@ -1,0 +1,15 @@
+---
+title: Medical Device
+subtitle: Product Design
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: frasco2b.jpg
+thumbnail: frasco1b.jpg
+alt: image-alt
+project-date: April 2014
+client: Laboratorios PiSa
+category: Product Design
+description: Small and portable nasal medication applier.
+
+---

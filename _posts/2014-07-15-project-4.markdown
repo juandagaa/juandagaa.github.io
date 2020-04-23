@@ -1,0 +1,15 @@
+---
+title: Mechanical Desing
+subtitle: Mechanical Engineering
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: luxor2.jpg
+thumbnail: luxor1.png
+alt: image-alt
+project-date: April 2014
+client: MASTERFAN
+category: Mechanical Engineering
+description: Reverse engineering of several fans and ventilation systems along with the creation of manufacturing documents.
+
+---

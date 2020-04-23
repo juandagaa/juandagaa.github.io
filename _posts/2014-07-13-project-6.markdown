@@ -1,0 +1,15 @@
+---
+title: Breast Pump
+subtitle: Product Desing And Innovation
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: Sacaro_detalle.jpg
+thumbnail: Sacaro_frente.jpg
+alt: image-alt
+project-date: April 2014
+client: Undisclosed Client
+category: Product Desing And Innovation
+description: Innovative breats pump. This pump does not require the user to be sitting and works when laying down. We generated a patent for our client.
+
+---
