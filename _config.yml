@@ -31,28 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Emmanuel Galvan
-  pic: 3
-  position: SCRUM Master / Innovation Leader
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Jose Juan Madrigal
-  pic: 4
-  position: Mechanical Design Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 - name: Juan Carlos Rojas
   pic: 5
   position: Electronics and Programming Creator
