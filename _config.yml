@@ -31,28 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Juan Carlos Rojas
-  pic: 5
-  position: Electronics and Programming Creator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #  
-
-- name: Cesar Humberto Galindo
-  pic: 6
-  position: Design and Manufacturing Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
